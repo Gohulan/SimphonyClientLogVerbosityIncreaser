@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimphonyClientLogVerbosityIncreaser", "SimphonyClientLogVerbosityIncreaser\SimphonyClientLogVerbosityIncreaser.csproj", "{06D76221-89B6-42F5-9115-A68675D9C0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D76221-89B6-42F5-9115-A68675D9C0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D76221-89B6-42F5-9115-A68675D9C0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D76221-89B6-42F5-9115-A68675D9C0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D76221-89B6-42F5-9115-A68675D9C0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C233AF5-EA67-4450-9144-08B34CA2B5AC}
+	EndGlobalSection
+EndGlobal
